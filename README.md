@@ -5,10 +5,17 @@ This project is a web scraper built using the Scrapy framework to extract book i
 
 Features
 Scrapes book details including:
+
 Title
+
 Price
+
 Rating
+
 Presence of specific text (e.g., "Stackam")
+
 Image URL
+
 Handles failed requests with error logging.
+
 Automatically opens the CSV file with the scraped data after completion.
